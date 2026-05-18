@@ -1,0 +1,76 @@
+{
+  "produtos": [
+  {
+    "id": 1,
+    "title": "Buquê de Rosas Vermelhas",
+    "price": 89.9,
+    "description": "Buquê com 12 rosas vermelhas.",
+    "category": "buque",
+    "image": "https://www.ikebanaflores.com.br/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/b/o/bouquet_751_x_851__easy-resize.com.jpg",
+    "rating": { "rate": 4.8, "count": 112 }
+  },
+  {
+    "id": 2,
+    "title": "Orquídea Branca",
+    "price": 59.90,
+    "description": "Orquídea branca.",
+    "category": "orquidea",
+    "image": "https://images.tcdn.com.br/img/img_prod/487611/orquidea_phalaenopsis_branca_prime_823_1_8ab6f5873525f89ca56e9feb7f3e33da.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+   {
+    "id": 3,
+    "title": "Orquídea Azul",
+    "price": 199.90,
+    "description": "Orquídea azul em vaso decorado.",
+    "category": "orquidea",
+    "image": "https://cdn.awsli.com.br/600x450/1087/1087349/produto/173709143/8625463afe.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+    {
+    "id": 4,
+    "title": "Buquê de Flores do Campo",
+    "price": 79.90,
+    "description": "Lindo buquê de flores do campo.",
+    "category": "buque",
+    "image": "https://www.maniadeflor.com.br/2817-large_default/buque-de-flores-mistas-carinho-em-forma-de-flor.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+  {
+    "id": 5,
+    "title": "Buquê de Girassol",
+    "price": 99.99,
+    "description": "Buquê com 6 girassóis.",
+    "category": "buque",
+    "image": "https://florisneia.com.br/wp-content/uploads/2021/07/37-scaled.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+  {
+    "id": 6,
+    "title": "Arranjo de Lírios",
+    "price": 135.00,
+    "description": "Arranjo de lírios em vaso espelhado.",
+    "category": "arranjo",
+    "image": "https://i.pinimg.com/originals/f8/67/9f/f8679fc81e41f8f467b909744dead9d5.png",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+  {
+    "id": 7,
+    "title": "Cesta Te Amo",
+    "price": 149.90,
+    "description": "Cesta com uma linda orquídea, uma pelúcia 'Te Amo' e bombons.",
+    "category": "cesta",
+    "image": "https://floriculturabellavita.com.br/784-large_default/cesta-de-rosas-importadas-coloridas.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  },
+  {
+    "id": 8,
+    "title": "Cesta Café da Manhã",
+    "price": 95.50,
+    "description": "Linda cesta de café da manhã, com 3 rosas e produtos para uma refeição saudável.",
+    "category": "cesta",
+    "image": "https://casaeconstrucao.org/wp-content/uploads/2021/04/6-cesta-de-cafe-da-manha-pequena-e-com-flores-285x300.jpg",
+    "rating": { "rate": 4.7, "count": 85 }
+  }
+ ]
+}
